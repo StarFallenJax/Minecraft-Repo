@@ -1,2 +1,2 @@
 # Minecraft: Abstractions and Attributes
-Mods, Resourcepacks, and more for Minecraft.
+[Mods](https://modrinth.com/modpack/reconnoiter), Resourcepacks, and more for Minecraft.
