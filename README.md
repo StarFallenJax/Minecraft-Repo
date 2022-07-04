@@ -1,2 +1,2 @@
-# Minecraft-Abstractions-and-Attributes
+# Minecraft: Abstractions and Attributes
 Mods, Resourcepacks, and more for Minecraft.
